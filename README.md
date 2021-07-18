@@ -1,1 +1,1 @@
-# thinh-c--programming-projects-and-exercises
+# thinh-c++programming-projects-and-exercises
